@@ -1,4 +1,3 @@
-### Hi there 👋
 [![stefanb stats](https://github-readme-stats.vercel.app/api?username=stefanb&show_icons=true&theme=transparent)](https://github.com/stefanb)
 
 <!--
@@ -6,6 +5,7 @@
 [![stefanb langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanb&langs_count=10&layout=compact)](https://github.com/stefanb)
 [![stefanb langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanb&langs_count=10&layout=compact&theme=transparent&hide=css,html)](https://github.com/stefanb)
 
+### Hi there 👋
 
 **stefanb/stefanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
