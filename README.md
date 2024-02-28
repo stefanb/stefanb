@@ -1,4 +1,4 @@
-[![stefanb trophies](https://github-profile-trophy.vercel.app/?username=stefanb&margin-h=10&margin-w=10&no-bg=true&no-frame=true)]([https://github.com/stefanb](https://github.com/ryo-ma/github-profile-trophy))
+[![stefanb trophies](https://github-profile-trophy.vercel.app/?username=stefanb&&column=6&margin-h=10&margin-w=10&no-bg=true&no-frame=true)]([https://github.com/stefanb](https://github.com/ryo-ma/github-profile-trophy))
 [![stefanb stats](https://github-readme-stats.vercel.app/api?username=stefanb&show_icons=true&theme=transparent)](https://github.com/stefanb)
 
 <!--
