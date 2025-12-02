@@ -1,7 +1,7 @@
 [![stefanb trophies](https://github-profile-trophy.vercel.app/?username=stefanb&&column=6&margin-h=10&margin-w=10&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
 [![stefanb stats](https://github-readme-stats.vercel.app/api?username=stefanb&show_icons=true&theme=transparent)](https://github.com/stefanb)
 
-<!--
 [![stefanb langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanb&langs_count=10&layout=compact&hide=css,html)](https://github.com/stefanb)
 [![stefanb langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanb&langs_count=10&layout=compact)](https://github.com/stefanb)
 [![stefanb langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanb&langs_count=10&layout=compact&theme=transparent&hide=css,html)](https://github.com/stefanb)
